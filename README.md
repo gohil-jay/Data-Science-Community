@@ -31,3 +31,19 @@ This repository comprises of the codes and resources pertaining to python and ma
 # Session 1-2: QnA
 
 During the first two session for the community, I talked about various computer science roadmaps (including data science), explained different career pathways, and solved doubts & queires of students who didn't have any senior (mentor) to talk and clear their doubts with.
+
+# Session 3 : Python Numpy
+
+In the 3rd session, I took a hand-on approach to learning the python library for statistics called 'Numpy'. You can find the python notebook used in the session in 'Session 3' sub repository.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gohil-jay/Data-Science-Community/main/Session%203%20%3A%20Python%20Numpy/Screenshot.png" alt="Screenshot" />
+</p>
+
+# Session 4 : Python Pandas
+
+In the 4th session, I took a hand-on approach to learning the python library for statistics called 'Pandas'. You can find the python notebook used in the session in 'Session 4' sub repository.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gohil-jay/Data-Science-Community/main/Session%204%20%3A%20Python%20Pandas/Snapshot.png" alt="Screenshot" />
+</p>
