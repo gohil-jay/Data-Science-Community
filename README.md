@@ -18,6 +18,8 @@ This repository comprises of the codes and resources pertaining to python and ma
 - **Application Development:** <a href="https://youtu.be/qCJxBvvULDk" target="_blank">Click here [Android]</a> | <a href="https://youtu.be/Nlp1p_Cb1_U" target="_blank">Click here [iOS]</a> | <a href="https://youtu.be/ZLBPD2HG1H0" target="_blank">Click here [Cross Platform]</a>
 - **Software Development:** <a href="https://youtu.be/J6rVaFzOEP8" target="_blank">Click here</a>
 - **Ethical Hacking:** <a href="https://youtu.be/MUmjN-Fh8tY" target="_blank">Click here</a>
+- **CyberSecurity:** <a href="https://youtu.be/Sj4TD0LSC_k" target="_blank">Click here</a>
+- **Cloud Computing:** <a href="https://youtu.be/IX1k6E3uldk" target="_blank">Click here</a>
 
 **Learning Tutorials:**
 
@@ -27,6 +29,8 @@ This repository comprises of the codes and resources pertaining to python and ma
 - **Software Engineering:** <a href="https://youtube.com/playlist?list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH" target="_blank">Click here [Playlist]</a>
 - **Data Structures and Algorithms:** <a href="https://youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU" target="_blank">Click here [Playlist]</a> | <a href="https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d" target="_blank">Click here [Playlist]</a>
 - **Ethical Hacking:** <a href="https://youtube.com/playlist?list=PLBf0hzazHTGOEuhPQSnq-Ej8jRyXxfYvl" target="_blank">Click here [Playlist]</a>
+- **CyberSecurity:** <a href="https://youtube.com/playlist?list=PL9ooVrP1hQOGPQVeapGsJCktzIO4DtI4_" target="_blank">Click here [Playlist]</a> | <a href="https://youtu.be/nzZkKoREEGo" target="_blank">Click here [Full Course]</a>
+- **Cloud Computing:** <a href="https://youtu.be/2LaAJq1lB1Q" target="_blank">Click here [Full Comprehensive Course]</a> | <a href="https://youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz" target="_blank">Click here [AWS Playlist 1]</a> | <a href="https://youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3" target="_blank">Click here [AWS Playlist 2]</a> | <a href="https://youtube.com/playlist?list=PL9ooVrP1hQOFUm7TmkH1zk5xy75GAxV44" target="_blank">Click here [GCP Playlist]</a> | <a href="https://youtu.be/dn9cSRImmVA" target="_blank">Click here [GCP Full Course]</a> | <a href="https://youtu.be/tDuruX7XSac" target="_blank">Click here [Azure Full COurse]</a> | <a href="https://youtube.com/playlist?list=PLXtHYVsvn_b_v4EKljH6dGo9qJ7JjItWL" target="_blank">Click here [Azure Playlist]</a>
 
 # Session 1-2: QnA
 
