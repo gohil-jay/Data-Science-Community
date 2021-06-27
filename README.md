@@ -59,3 +59,9 @@ In the 5th session, I took a hand-on approach to learning the python libraries f
 <p align="center">
   <img src="https://raw.githubusercontent.com/gohil-jay/Data-Science-Community/main/Session%205%20%3A%20Python%20Visualization/Screenshot.png" alt="Screenshot" />
 </p>
+
+# Session 6 : Linear Regression
+
+In the 6th session, I took a hands-on approach to learn linear regression using python. You can find the python notebook used in the session in 'Session 6' sub repository.
+
+![Session 6 Snapshot](https://raw.githubusercontent.com/gohil-jay/Data-Science-Community/main/Session%206%20%3A%20Linear%20Regression/Snapshot.png)
